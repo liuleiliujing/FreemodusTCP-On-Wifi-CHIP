@@ -1,0 +1,1871 @@
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:97:0: warning: "EDEADLK" redefined [enabled by default]
+ #define  EDEADLK         35  /* Resource deadlock would occur */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:79:0: note: this is the location of the previous definition
+ #define EDEADLK 45 /* Deadlock condition */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:98:0: warning: "ENAMETOOLONG" redefined [enabled by default]
+ #define  ENAMETOOLONG    36  /* File name too long */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:129:0: note: this is the location of the previous definition
+ #define ENAMETOOLONG 91 /* File or path name too long */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:99:0: warning: "ENOLCK" redefined [enabled by default]
+ #define  ENOLCK          37  /* No record locks available */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:80:0: note: this is the location of the previous definition
+ #define ENOLCK 46 /* No record locks available */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:100:0: warning: "ENOSYS" redefined [enabled by default]
+ #define  ENOSYS          38  /* Function not implemented */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:124:0: note: this is the location of the previous definition
+ #define ENOSYS 88 /* Function not implemented */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:101:0: warning: "ENOTEMPTY" redefined [enabled by default]
+ #define  ENOTEMPTY       39  /* Directory not empty */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:128:0: note: this is the location of the previous definition
+ #define ENOTEMPTY 90 /* Directory not empty */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:102:0: warning: "ELOOP" redefined [enabled by default]
+ #define  ELOOP           40  /* Too many symbolic links encountered */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:130:0: note: this is the location of the previous definition
+ #define ELOOP 92 /* Too many symbolic links */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:104:0: warning: "ENOMSG" redefined [enabled by default]
+ #define  ENOMSG          42  /* No message of desired type */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:67:0: note: this is the location of the previous definition
+ #define ENOMSG 35 /* No message of desired type */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:105:0: warning: "EIDRM" redefined [enabled by default]
+ #define  EIDRM           43  /* Identifier removed */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:68:0: note: this is the location of the previous definition
+ #define EIDRM 36 /* Identifier removed */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:136:0: warning: "EMULTIHOP" redefined [enabled by default]
+ #define  EMULTIHOP       72  /* Multihop attempted */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:107:0: note: this is the location of the previous definition
+ #define EMULTIHOP 74 /* Multihop attempted */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:138:0: warning: "EBADMSG" redefined [enabled by default]
+ #define  EBADMSG         74  /* Not a data message */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:112:0: note: this is the location of the previous definition
+ #define EBADMSG 77 /* Trying to read unreadable message */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:139:0: warning: "EOVERFLOW" redefined [enabled by default]
+ #define  EOVERFLOW       75  /* Value too large for defined data type */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:178:0: note: this is the location of the previous definition
+ #define EOVERFLOW 139 /* Value too large for defined data type */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:154:0: warning: "ENOTSOCK" redefined [enabled by default]
+ #define  ENOTSOCK        88  /* Socket operation on non-socket */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:137:0: note: this is the location of the previous definition
+ #define ENOTSOCK 108 /* Socket operation on non-socket */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:155:0: warning: "EDESTADDRREQ" redefined [enabled by default]
+ #define  EDESTADDRREQ    89  /* Destination address required */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:152:0: note: this is the location of the previous definition
+ #define EDESTADDRREQ 121 /* Destination address required */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:156:0: warning: "EMSGSIZE" redefined [enabled by default]
+ #define  EMSGSIZE        90  /* Message too long */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:153:0: note: this is the location of the previous definition
+ #define EMSGSIZE 122  /* Message too long */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:157:0: warning: "EPROTOTYPE" redefined [enabled by default]
+ #define  EPROTOTYPE      91  /* Protocol wrong type for socket */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:136:0: note: this is the location of the previous definition
+ #define EPROTOTYPE 107 /* Protocol wrong type for socket */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:158:0: warning: "ENOPROTOOPT" redefined [enabled by default]
+ #define  ENOPROTOOPT     92  /* Protocol not available */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:138:0: note: this is the location of the previous definition
+ #define ENOPROTOOPT 109 /* Protocol not available */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:159:0: warning: "EPROTONOSUPPORT" redefined [enabled by default]
+ #define  EPROTONOSUPPORT 93  /* Protocol not supported */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:154:0: note: this is the location of the previous definition
+ #define EPROTONOSUPPORT 123 /* Unknown protocol */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:163:0: warning: "EAFNOSUPPORT" redefined [enabled by default]
+ #define  EAFNOSUPPORT    97  /* Address family not supported by protocol */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:135:0: note: this is the location of the previous definition
+ #define EAFNOSUPPORT 106 /* Address family not supported by protocol family */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:164:0: warning: "EADDRINUSE" redefined [enabled by default]
+ #define  EADDRINUSE      98  /* Address already in use */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:143:0: note: this is the location of the previous definition
+ #define EADDRINUSE 112  /* Address already in use */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:165:0: warning: "EADDRNOTAVAIL" redefined [enabled by default]
+ #define  EADDRNOTAVAIL   99  /* Cannot assign requested address */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:158:0: note: this is the location of the previous definition
+ #define EADDRNOTAVAIL 125 /* Address not available */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:166:0: warning: "ENETDOWN" redefined [enabled by default]
+ #define  ENETDOWN       100  /* Network is down */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:146:0: note: this is the location of the previous definition
+ #define ENETDOWN 115  /* Network interface is not configured */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:167:0: warning: "ENETUNREACH" redefined [enabled by default]
+ #define  ENETUNREACH    101  /* Network is unreachable */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:145:0: note: this is the location of the previous definition
+ #define ENETUNREACH 114  /* Network is unreachable */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:168:0: warning: "ENETRESET" redefined [enabled by default]
+ #define  ENETRESET      102  /* Network dropped connection because of reset */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:159:0: note: this is the location of the previous definition
+ #define ENETRESET 126
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:169:0: warning: "ECONNABORTED" redefined [enabled by default]
+ #define  ECONNABORTED   103  /* Software caused connection abort */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:144:0: note: this is the location of the previous definition
+ #define ECONNABORTED 113 /* Connection aborted */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:172:0: warning: "EISCONN" redefined [enabled by default]
+ #define  EISCONN        106  /* Transport endpoint is already connected */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:160:0: note: this is the location of the previous definition
+ #define EISCONN 127  /* Socket is already connected */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:173:0: warning: "ENOTCONN" redefined [enabled by default]
+ #define  ENOTCONN       107  /* Transport endpoint is not connected */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:161:0: note: this is the location of the previous definition
+ #define ENOTCONN 128  /* Socket is not connected */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:175:0: warning: "ETOOMANYREFS" redefined [enabled by default]
+ #define  ETOOMANYREFS   109  /* Too many references: cannot splice */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:162:0: note: this is the location of the previous definition
+ #define ETOOMANYREFS 129
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:176:0: warning: "ETIMEDOUT" redefined [enabled by default]
+ #define  ETIMEDOUT      110  /* Connection timed out */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:147:0: note: this is the location of the previous definition
+ #define ETIMEDOUT 116  /* Connection timed out */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:178:0: warning: "EHOSTDOWN" redefined [enabled by default]
+ #define  EHOSTDOWN      112  /* Host is down */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:148:0: note: this is the location of the previous definition
+ #define EHOSTDOWN 117  /* Host is down */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:179:0: warning: "EHOSTUNREACH" redefined [enabled by default]
+ #define  EHOSTUNREACH   113  /* No route to host */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:149:0: note: this is the location of the previous definition
+ #define EHOSTUNREACH 118 /* Host is unreachable */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:180:0: warning: "EALREADY" redefined [enabled by default]
+ #define  EALREADY       114  /* Operation already in progress */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:151:0: note: this is the location of the previous definition
+ #define EALREADY 120  /* Socket already connected */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:181:0: warning: "EINPROGRESS" redefined [enabled by default]
+ #define  EINPROGRESS    115  /* Operation now in progress */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:150:0: note: this is the location of the previous definition
+ #define EINPROGRESS 119  /* Connection already in progress */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:182:0: warning: "ESTALE" redefined [enabled by default]
+ #define  ESTALE         116  /* Stale NFS file handle */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:168:0: note: this is the location of the previous definition
+ #define ESTALE 133
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:188:0: warning: "EDQUOT" redefined [enabled by default]
+ #define  EDQUOT         122  /* Quota exceeded */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:167:0: note: this is the location of the previous definition
+ #define EDQUOT 132
+ ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:55:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:97:0: warning: "EDEADLK" redefined [enabled by default]
+ #define  EDEADLK         35  /* Resource deadlock would occur */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:79:0: note: this is the location of the previous definition
+ #define EDEADLK 45 /* Deadlock condition */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:98:0: warning: "ENAMETOOLONG" redefined [enabled by default]
+ #define  ENAMETOOLONG    36  /* File name too long */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:129:0: note: this is the location of the previous definition
+ #define ENAMETOOLONG 91 /* File or path name too long */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:99:0: warning: "ENOLCK" redefined [enabled by default]
+ #define  ENOLCK          37  /* No record locks available */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:80:0: note: this is the location of the previous definition
+ #define ENOLCK 46 /* No record locks available */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:100:0: warning: "ENOSYS" redefined [enabled by default]
+ #define  ENOSYS          38  /* Function not implemented */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:124:0: note: this is the location of the previous definition
+ #define ENOSYS 88 /* Function not implemented */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:101:0: warning: "ENOTEMPTY" redefined [enabled by default]
+ #define  ENOTEMPTY       39  /* Directory not empty */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:128:0: note: this is the location of the previous definition
+ #define ENOTEMPTY 90 /* Directory not empty */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:102:0: warning: "ELOOP" redefined [enabled by default]
+ #define  ELOOP           40  /* Too many symbolic links encountered */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:130:0: note: this is the location of the previous definition
+ #define ELOOP 92 /* Too many symbolic links */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:104:0: warning: "ENOMSG" redefined [enabled by default]
+ #define  ENOMSG          42  /* No message of desired type */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:67:0: note: this is the location of the previous definition
+ #define ENOMSG 35 /* No message of desired type */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:105:0: warning: "EIDRM" redefined [enabled by default]
+ #define  EIDRM           43  /* Identifier removed */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:68:0: note: this is the location of the previous definition
+ #define EIDRM 36 /* Identifier removed */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:136:0: warning: "EMULTIHOP" redefined [enabled by default]
+ #define  EMULTIHOP       72  /* Multihop attempted */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:107:0: note: this is the location of the previous definition
+ #define EMULTIHOP 74 /* Multihop attempted */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:138:0: warning: "EBADMSG" redefined [enabled by default]
+ #define  EBADMSG         74  /* Not a data message */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:112:0: note: this is the location of the previous definition
+ #define EBADMSG 77 /* Trying to read unreadable message */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:139:0: warning: "EOVERFLOW" redefined [enabled by default]
+ #define  EOVERFLOW       75  /* Value too large for defined data type */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:178:0: note: this is the location of the previous definition
+ #define EOVERFLOW 139 /* Value too large for defined data type */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:154:0: warning: "ENOTSOCK" redefined [enabled by default]
+ #define  ENOTSOCK        88  /* Socket operation on non-socket */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:137:0: note: this is the location of the previous definition
+ #define ENOTSOCK 108 /* Socket operation on non-socket */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:155:0: warning: "EDESTADDRREQ" redefined [enabled by default]
+ #define  EDESTADDRREQ    89  /* Destination address required */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:152:0: note: this is the location of the previous definition
+ #define EDESTADDRREQ 121 /* Destination address required */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:156:0: warning: "EMSGSIZE" redefined [enabled by default]
+ #define  EMSGSIZE        90  /* Message too long */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:153:0: note: this is the location of the previous definition
+ #define EMSGSIZE 122  /* Message too long */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:157:0: warning: "EPROTOTYPE" redefined [enabled by default]
+ #define  EPROTOTYPE      91  /* Protocol wrong type for socket */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:136:0: note: this is the location of the previous definition
+ #define EPROTOTYPE 107 /* Protocol wrong type for socket */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:158:0: warning: "ENOPROTOOPT" redefined [enabled by default]
+ #define  ENOPROTOOPT     92  /* Protocol not available */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:138:0: note: this is the location of the previous definition
+ #define ENOPROTOOPT 109 /* Protocol not available */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:159:0: warning: "EPROTONOSUPPORT" redefined [enabled by default]
+ #define  EPROTONOSUPPORT 93  /* Protocol not supported */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:154:0: note: this is the location of the previous definition
+ #define EPROTONOSUPPORT 123 /* Unknown protocol */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:163:0: warning: "EAFNOSUPPORT" redefined [enabled by default]
+ #define  EAFNOSUPPORT    97  /* Address family not supported by protocol */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:135:0: note: this is the location of the previous definition
+ #define EAFNOSUPPORT 106 /* Address family not supported by protocol family */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:164:0: warning: "EADDRINUSE" redefined [enabled by default]
+ #define  EADDRINUSE      98  /* Address already in use */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:143:0: note: this is the location of the previous definition
+ #define EADDRINUSE 112  /* Address already in use */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:165:0: warning: "EADDRNOTAVAIL" redefined [enabled by default]
+ #define  EADDRNOTAVAIL   99  /* Cannot assign requested address */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:158:0: note: this is the location of the previous definition
+ #define EADDRNOTAVAIL 125 /* Address not available */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:166:0: warning: "ENETDOWN" redefined [enabled by default]
+ #define  ENETDOWN       100  /* Network is down */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:146:0: note: this is the location of the previous definition
+ #define ENETDOWN 115  /* Network interface is not configured */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:167:0: warning: "ENETUNREACH" redefined [enabled by default]
+ #define  ENETUNREACH    101  /* Network is unreachable */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:145:0: note: this is the location of the previous definition
+ #define ENETUNREACH 114  /* Network is unreachable */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:168:0: warning: "ENETRESET" redefined [enabled by default]
+ #define  ENETRESET      102  /* Network dropped connection because of reset */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:159:0: note: this is the location of the previous definition
+ #define ENETRESET 126
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:169:0: warning: "ECONNABORTED" redefined [enabled by default]
+ #define  ECONNABORTED   103  /* Software caused connection abort */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:144:0: note: this is the location of the previous definition
+ #define ECONNABORTED 113 /* Connection aborted */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:172:0: warning: "EISCONN" redefined [enabled by default]
+ #define  EISCONN        106  /* Transport endpoint is already connected */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:160:0: note: this is the location of the previous definition
+ #define EISCONN 127  /* Socket is already connected */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:173:0: warning: "ENOTCONN" redefined [enabled by default]
+ #define  ENOTCONN       107  /* Transport endpoint is not connected */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:161:0: note: this is the location of the previous definition
+ #define ENOTCONN 128  /* Socket is not connected */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:175:0: warning: "ETOOMANYREFS" redefined [enabled by default]
+ #define  ETOOMANYREFS   109  /* Too many references: cannot splice */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:162:0: note: this is the location of the previous definition
+ #define ETOOMANYREFS 129
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:176:0: warning: "ETIMEDOUT" redefined [enabled by default]
+ #define  ETIMEDOUT      110  /* Connection timed out */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:147:0: note: this is the location of the previous definition
+ #define ETIMEDOUT 116  /* Connection timed out */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:178:0: warning: "EHOSTDOWN" redefined [enabled by default]
+ #define  EHOSTDOWN      112  /* Host is down */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:148:0: note: this is the location of the previous definition
+ #define EHOSTDOWN 117  /* Host is down */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:179:0: warning: "EHOSTUNREACH" redefined [enabled by default]
+ #define  EHOSTUNREACH   113  /* No route to host */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:149:0: note: this is the location of the previous definition
+ #define EHOSTUNREACH 118 /* Host is unreachable */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:180:0: warning: "EALREADY" redefined [enabled by default]
+ #define  EALREADY       114  /* Operation already in progress */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:151:0: note: this is the location of the previous definition
+ #define EALREADY 120  /* Socket already connected */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:181:0: warning: "EINPROGRESS" redefined [enabled by default]
+ #define  EINPROGRESS    115  /* Operation now in progress */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:150:0: note: this is the location of the previous definition
+ #define EINPROGRESS 119  /* Connection already in progress */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:182:0: warning: "ESTALE" redefined [enabled by default]
+ #define  ESTALE         116  /* Stale NFS file handle */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:168:0: note: this is the location of the previous definition
+ #define ESTALE 133
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:188:0: warning: "EDQUOT" redefined [enabled by default]
+ #define  EDQUOT         122  /* Quota exceeded */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:167:0: note: this is the location of the previous definition
+ #define EDQUOT 132
+ ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:97:0: warning: "EDEADLK" redefined [enabled by default]
+ #define  EDEADLK         35  /* Resource deadlock would occur */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:79:0: note: this is the location of the previous definition
+ #define EDEADLK 45 /* Deadlock condition */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:98:0: warning: "ENAMETOOLONG" redefined [enabled by default]
+ #define  ENAMETOOLONG    36  /* File name too long */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:129:0: note: this is the location of the previous definition
+ #define ENAMETOOLONG 91 /* File or path name too long */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:99:0: warning: "ENOLCK" redefined [enabled by default]
+ #define  ENOLCK          37  /* No record locks available */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:80:0: note: this is the location of the previous definition
+ #define ENOLCK 46 /* No record locks available */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:100:0: warning: "ENOSYS" redefined [enabled by default]
+ #define  ENOSYS          38  /* Function not implemented */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:124:0: note: this is the location of the previous definition
+ #define ENOSYS 88 /* Function not implemented */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:101:0: warning: "ENOTEMPTY" redefined [enabled by default]
+ #define  ENOTEMPTY       39  /* Directory not empty */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:128:0: note: this is the location of the previous definition
+ #define ENOTEMPTY 90 /* Directory not empty */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:102:0: warning: "ELOOP" redefined [enabled by default]
+ #define  ELOOP           40  /* Too many symbolic links encountered */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:130:0: note: this is the location of the previous definition
+ #define ELOOP 92 /* Too many symbolic links */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:104:0: warning: "ENOMSG" redefined [enabled by default]
+ #define  ENOMSG          42  /* No message of desired type */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:67:0: note: this is the location of the previous definition
+ #define ENOMSG 35 /* No message of desired type */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:105:0: warning: "EIDRM" redefined [enabled by default]
+ #define  EIDRM           43  /* Identifier removed */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:68:0: note: this is the location of the previous definition
+ #define EIDRM 36 /* Identifier removed */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:136:0: warning: "EMULTIHOP" redefined [enabled by default]
+ #define  EMULTIHOP       72  /* Multihop attempted */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:107:0: note: this is the location of the previous definition
+ #define EMULTIHOP 74 /* Multihop attempted */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:138:0: warning: "EBADMSG" redefined [enabled by default]
+ #define  EBADMSG         74  /* Not a data message */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:112:0: note: this is the location of the previous definition
+ #define EBADMSG 77 /* Trying to read unreadable message */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:139:0: warning: "EOVERFLOW" redefined [enabled by default]
+ #define  EOVERFLOW       75  /* Value too large for defined data type */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:178:0: note: this is the location of the previous definition
+ #define EOVERFLOW 139 /* Value too large for defined data type */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:154:0: warning: "ENOTSOCK" redefined [enabled by default]
+ #define  ENOTSOCK        88  /* Socket operation on non-socket */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:137:0: note: this is the location of the previous definition
+ #define ENOTSOCK 108 /* Socket operation on non-socket */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:155:0: warning: "EDESTADDRREQ" redefined [enabled by default]
+ #define  EDESTADDRREQ    89  /* Destination address required */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:152:0: note: this is the location of the previous definition
+ #define EDESTADDRREQ 121 /* Destination address required */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:156:0: warning: "EMSGSIZE" redefined [enabled by default]
+ #define  EMSGSIZE        90  /* Message too long */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:153:0: note: this is the location of the previous definition
+ #define EMSGSIZE 122  /* Message too long */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:157:0: warning: "EPROTOTYPE" redefined [enabled by default]
+ #define  EPROTOTYPE      91  /* Protocol wrong type for socket */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:136:0: note: this is the location of the previous definition
+ #define EPROTOTYPE 107 /* Protocol wrong type for socket */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:158:0: warning: "ENOPROTOOPT" redefined [enabled by default]
+ #define  ENOPROTOOPT     92  /* Protocol not available */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:138:0: note: this is the location of the previous definition
+ #define ENOPROTOOPT 109 /* Protocol not available */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:159:0: warning: "EPROTONOSUPPORT" redefined [enabled by default]
+ #define  EPROTONOSUPPORT 93  /* Protocol not supported */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:154:0: note: this is the location of the previous definition
+ #define EPROTONOSUPPORT 123 /* Unknown protocol */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:163:0: warning: "EAFNOSUPPORT" redefined [enabled by default]
+ #define  EAFNOSUPPORT    97  /* Address family not supported by protocol */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:135:0: note: this is the location of the previous definition
+ #define EAFNOSUPPORT 106 /* Address family not supported by protocol family */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:164:0: warning: "EADDRINUSE" redefined [enabled by default]
+ #define  EADDRINUSE      98  /* Address already in use */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:143:0: note: this is the location of the previous definition
+ #define EADDRINUSE 112  /* Address already in use */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:165:0: warning: "EADDRNOTAVAIL" redefined [enabled by default]
+ #define  EADDRNOTAVAIL   99  /* Cannot assign requested address */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:158:0: note: this is the location of the previous definition
+ #define EADDRNOTAVAIL 125 /* Address not available */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:166:0: warning: "ENETDOWN" redefined [enabled by default]
+ #define  ENETDOWN       100  /* Network is down */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:146:0: note: this is the location of the previous definition
+ #define ENETDOWN 115  /* Network interface is not configured */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:167:0: warning: "ENETUNREACH" redefined [enabled by default]
+ #define  ENETUNREACH    101  /* Network is unreachable */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:145:0: note: this is the location of the previous definition
+ #define ENETUNREACH 114  /* Network is unreachable */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:168:0: warning: "ENETRESET" redefined [enabled by default]
+ #define  ENETRESET      102  /* Network dropped connection because of reset */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:159:0: note: this is the location of the previous definition
+ #define ENETRESET 126
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:169:0: warning: "ECONNABORTED" redefined [enabled by default]
+ #define  ECONNABORTED   103  /* Software caused connection abort */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:144:0: note: this is the location of the previous definition
+ #define ECONNABORTED 113 /* Connection aborted */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:172:0: warning: "EISCONN" redefined [enabled by default]
+ #define  EISCONN        106  /* Transport endpoint is already connected */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:160:0: note: this is the location of the previous definition
+ #define EISCONN 127  /* Socket is already connected */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:173:0: warning: "ENOTCONN" redefined [enabled by default]
+ #define  ENOTCONN       107  /* Transport endpoint is not connected */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:161:0: note: this is the location of the previous definition
+ #define ENOTCONN 128  /* Socket is not connected */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:175:0: warning: "ETOOMANYREFS" redefined [enabled by default]
+ #define  ETOOMANYREFS   109  /* Too many references: cannot splice */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:162:0: note: this is the location of the previous definition
+ #define ETOOMANYREFS 129
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:176:0: warning: "ETIMEDOUT" redefined [enabled by default]
+ #define  ETIMEDOUT      110  /* Connection timed out */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:147:0: note: this is the location of the previous definition
+ #define ETIMEDOUT 116  /* Connection timed out */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:178:0: warning: "EHOSTDOWN" redefined [enabled by default]
+ #define  EHOSTDOWN      112  /* Host is down */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:148:0: note: this is the location of the previous definition
+ #define EHOSTDOWN 117  /* Host is down */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:179:0: warning: "EHOSTUNREACH" redefined [enabled by default]
+ #define  EHOSTUNREACH   113  /* No route to host */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:149:0: note: this is the location of the previous definition
+ #define EHOSTUNREACH 118 /* Host is unreachable */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:180:0: warning: "EALREADY" redefined [enabled by default]
+ #define  EALREADY       114  /* Operation already in progress */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:151:0: note: this is the location of the previous definition
+ #define EALREADY 120  /* Socket already connected */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:181:0: warning: "EINPROGRESS" redefined [enabled by default]
+ #define  EINPROGRESS    115  /* Operation now in progress */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:150:0: note: this is the location of the previous definition
+ #define EINPROGRESS 119  /* Connection already in progress */
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:182:0: warning: "ESTALE" redefined [enabled by default]
+ #define  ESTALE         116  /* Stale NFS file handle */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:168:0: note: this is the location of the previous definition
+ #define ESTALE 133
+ ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/sockets.h:50:0,
+                 from ../inc/network_default_config.h:46,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:52:
+../../../../../middleware/third_party/lwip/src/include/lwip/lwip_errno.h:188:0: warning: "EDQUOT" redefined [enabled by default]
+ #define  EDQUOT         122  /* Quota exceeded */
+ ^
+In file included from c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\errno.h:9:0,
+                 from ../../../../../middleware/third_party/lwip/ports/include/arch/cc.h:39,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/arch.h:48,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/debug.h:40,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/opt.h:52,
+                 from ../../../../../middleware/third_party/lwip/src/include/lwip/ip4_addr.h:40,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip_helper.c:43:
+c:\mingw\msys\1.0\home\administrator\sdk_v4.8.0\tools\gcc\win\gcc-arm-none-eabi\arm-none-eabi\include\sys\errno.h:167:0: note: this is the location of the previous definition
+ #define EDQUOT 132
+ ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c: In function 'prvxMBTCPPortReceive':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c:274:17: warning: implicit declaration of function 'prvvMBTCPLogFrame' [-Wimplicit-function-declaration]
+                 prvvMBTCPLogFrame( "MBTCP-RECV", &aucTCPBuf[0], usTCPBufPos );
+                 ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:90:4: warning: implicit declaration of function 'sys_check_timeouts' [-Wimplicit-function-declaration]
+    sys_check_timeouts();
+    ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:90:4: warning: implicit declaration of function 'sys_check_timeouts' [-Wimplicit-function-declaration]
+    sys_check_timeouts();
+    ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c: In function 'printf_register_map':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c:574:3: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'uint32_t' [-Wformat=]
+   printf("register : 0x%x  = 0x%x ! \n\r",(read_add+i),read_data);
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c:574:3: warning: format '%x' expects argument of type 'unsigned int', but argument 3 has type 'uint32_t' [-Wformat=]
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c: In function 'main':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c:590:10: warning: unused variable 'time1_test' [-Wunused-variable]
+ uint32_t time1_test= 0;
+          ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c: At top level:
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c:457:13: warning: 'led_test_task' defined but not used [-Wunused-function]
+ static void led_test_task(void *param)
+             ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c: In function 'printf_register_map':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c:574:3: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'uint32_t' [-Wformat=]
+   printf("register : 0x%x  = 0x%x ! \n\r",(read_add+i),read_data);
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c:574:3: warning: format '%x' expects argument of type 'unsigned int', but argument 3 has type 'uint32_t' [-Wformat=]
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c: In function 'main':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c:590:10: warning: unused variable 'time1_test' [-Wunused-variable]
+ uint32_t time1_test= 0;
+          ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c: At top level:
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/main.c:457:13: warning: 'led_test_task' defined but not used [-Wunused-function]
+ static void led_test_task(void *param)
+             ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c: In function 'prvxMBTCPPortReceive':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c:279:17: warning: implicit declaration of function 'prvvMBTCPLogFrame' [-Wimplicit-function-declaration]
+                 prvvMBTCPLogFrame( "MBTCP-RECV", &aucTCPBuf[0], usTCPBufPos );
+                 ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c: In function 'prvxMBTCPPortReceive':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c:279:17: warning: implicit declaration of function 'prvvMBTCPLogFrame' [-Wimplicit-function-declaration]
+                 prvvMBTCPLogFrame( "MBTCP-RECV", &aucTCPBuf[0], usTCPBufPos );
+                 ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c: In function 'prvxMBTCPPortReceive':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c:279:17: warning: implicit declaration of function 'prvvMBTCPLogFrame' [-Wimplicit-function-declaration]
+                 prvvMBTCPLogFrame( "MBTCP-RECV", &aucTCPBuf[0], usTCPBufPos );
+                 ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c: In function 'prvxMBTCPPortReceive':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c:279:17: warning: implicit declaration of function 'prvvMBTCPLogFrame' [-Wimplicit-function-declaration]
+                 prvvMBTCPLogFrame( "MBTCP-RECV", &aucTCPBuf[0], usTCPBufPos );
+                 ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:57:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+In file included from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/lwip.c:51:0:
+../inc/lwip.h:77:1: error: unknown type name 'ETH_HandleTypeDef'
+ extern ETH_HandleTypeDef heth;
+ ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/lwip.c: In function 'MX_LWIP_Init':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/lwip.c:110:3: warning: passing argument 6 of 'netif_add' from incompatible pointer type [enabled by default]
+   netif_add(&gnetif, &ipaddr, &netmask, &gw, NULL, &ethernetif_init, &ethernet_input);
+   ^
+In file included from ../../../../../middleware/third_party/lwip/src/include/lwip/etharp.h:51:0,
+                 from ../../../../../middleware/third_party/lwip/src/include/netif/etharp.h:2,
+                 from ../inc/lwip.h:61,
+                 from ../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/lwip.c:51:
+../../../../../middleware/third_party/lwip/src/include/lwip/netif.h:445:15: note: expected 'netif_init_fn' but argument is of type 'void (*)(enum sta_ip_mode_t,  uint8_t *, uint8_t *, struct ip4_addr_t *, struct ip4_addr_t *, struct ip4_addr_t *, struct ip4_addr_t *, struct ip4_addr_t *, struct ip4_addr_t *, uint8_t)'
+ struct netif *netif_add(struct netif *netif,
+               ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/lwip.c: In function 'MX_LWIP_Process':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/lwip.c:153:3: warning: implicit declaration of function 'ethernetif_input' [-Wimplicit-function-declaration]
+   ethernetif_input(&gnetif);
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:49:6: warning: implicit declaration of function 'MX_LWIP_Init' [-Wimplicit-function-declaration]
+      MX_LWIP_Init();
+      ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:92:4: warning: implicit declaration of function 'MX_LWIP_Process' [-Wimplicit-function-declaration]
+    MX_LWIP_Process();
+    ^
+arm-none-eabi-g++.exe: error: ../../../../../out/mt7682_hdk/iot_sdk_demo/obj/project/mt7682_hdk/apps/iot_sdk_demo/src/lwip.o: No such file or directory
+make: *** [/home/Administrator/SDK_V4.8.0/out/mt7682_hdk/iot_sdk_demo/iot_sdk_demo.elf] Error 1
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+make: *** No rule to make target `/home/Administrator/SDK_V4.8.0/out/mt7682_hdk/iot_sdk_demo/obj/project/mt7682_hdk/apps/iot_sdk_demo/src/wifi_lwip.o', needed by `/home/Administrator/SDK_V4.8.0/out/mt7682_hdk/iot_sdk_demo/iot_sdk_demo.elf'.  Stop.
+make: *** Waiting for unfinished jobs....
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c: In function 'prvxMBTCPPortReceive':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c:279:17: warning: implicit declaration of function 'prvvMBTCPLogFrame' [-Wimplicit-function-declaration]
+                 prvvMBTCPLogFrame( "MBTCP-RECV", &aucTCPBuf[0], usTCPBufPos );
+                 ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c: In function 'prvxMBTCPPortReceive':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/modbus/port/porttcp.c:279:17: warning: implicit declaration of function 'prvvMBTCPLogFrame' [-Wimplicit-function-declaration]
+                 prvvMBTCPLogFrame( "MBTCP-RECV", &aucTCPBuf[0], usTCPBufPos );
+                 ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:98:62: error: lvalue required as left operand of assignment
+             while( xStatus == MB_ENOERR &&modbus_connect_flag=1 );
+                                                              ^
+arm-none-eabi-g++.exe: error: ../../../../../out/mt7682_hdk/iot_sdk_demo/obj/project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.o: No such file or directory
+make: *** [/home/Administrator/SDK_V4.8.0/out/mt7682_hdk/iot_sdk_demo/iot_sdk_demo.elf] Error 1
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:94:62: error: lvalue required as left operand of assignment
+             while( xStatus == MB_ENOERR &&modbus_connect_flag=1 );
+                                                              ^
+arm-none-eabi-g++.exe: error: ../../../../../out/mt7682_hdk/iot_sdk_demo/obj/project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.o: No such file or directory
+make: *** [/home/Administrator/SDK_V4.8.0/out/mt7682_hdk/iot_sdk_demo/iot_sdk_demo.elf] Error 1
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c: In function 'modbus_task':
+../../../../../project/mt7682_hdk/apps/iot_sdk_demo/src/modbus_task.c:42:3: warning: implicit declaration of function 'vTaskDelay' [-Wimplicit-function-declaration]
+   vTaskDelay(1000 / portTICK_RATE_MS);  
+   ^
